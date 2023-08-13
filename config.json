@@ -3,6 +3,6 @@
   "sensitiveFiles": [
     "wp-admin", "admin.php", "phpmyadmin", ".git",
     "config.php", "wp-config.php", "configuration.php", "settings.php",
-    "database.php", "db.php", "dbconfig.php", "dbconnect.php", "escapeperfecto",
+    "database.php", "db.php", "dbconfig.php", "dbconnect.php", "escapeperfecto"
   ]
 }
