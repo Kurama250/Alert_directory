@@ -8,5 +8,5 @@ curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
 apt-get install -y nodejs -y
 git clone https://github.com/Kurama250/Alert_directory.git
 cd Alert_directory/
-npm install fs axios readline tail
+npm install fs axios tail
 npm install pm2 -g
