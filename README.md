@@ -1,4 +1,4 @@
-<h1 align="center">Directory / files scanner detector (Nginx)</h1>
+<h1 align="center">Directory | files scanner detector (Nginx)</h1>
 <em><h5 align="center">(Programming Language - Node.js | Shell)</h5></em>
 
 # Tutorial to install the bot ! For LINUX (VPS or Dedicated Server)
