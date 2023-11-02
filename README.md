@@ -16,7 +16,7 @@ bash <(curl -s https://raw.githubusercontent.com/Alert_directory/main/setup.sh)
 
 ```shell script
 apt update && apt upgrade -y
-apt install npm node.js git -y
+apt install npm nodejs git -y
 curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
 apt-get install -y nodejs
 ```
