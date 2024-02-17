@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/stability-stable-green">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/npm/v/module-name">
+  <img src="https://img.shields.io/npm/v/axios?label=axios">
+  <img src="https://img.shields.io/npm/v/tail?label=tail">
+</p>
+
 # Tutorial to install the bot ! For LINUX (VPS or Dedicated Server)
 
 ## 1 - on Terminal
